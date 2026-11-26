@@ -9,9 +9,8 @@ matches the character count exactly and the gate sees the joke alone.
 import os
 
 JOKE = (
-    "Our office printer only jams on documents that matter. "
-    "It's the most loyal employee we have: "
-    "never works, always present, impossible to fire."
+    "The office printer jammed on my resignation letter. "
+    "Even the hardware knows I should stay."
 )
 
 
